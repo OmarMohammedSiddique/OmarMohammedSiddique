@@ -25,13 +25,12 @@ I am a final-year Informatics and Computer Science student passionate about secu
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarMohammedSiddique&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMohammedSiddique&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarMohammedSiddique&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0f0c29&amp;title_color=67e8f9&amp;icon_color=67e8f9&amp;text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMohammedSiddique&amp;layout=compact&amp;hide_border=true&amp;bg_color=0f0c29&amp;title_color=67e8f9&amp;text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMohammedSiddique&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMohammedSiddique&amp;bg_color=0f0c29&amp;color=67e8f9&amp;line=2c5364&amp;point=67e8f9&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
