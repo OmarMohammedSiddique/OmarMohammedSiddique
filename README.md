@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Informatics+Student+%7C+Cybersecurity+Enthusiast+%7C+Full+Stack+Developer&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm Omar Siddique 👋
+#Hi there, I'm Omar Siddique 👋
 
 I am a final-year Informatics and Computer Science student passionate about securing digital ecosystems and building robust web applications. My work bridges the gap between proactive security measures and rapid, full-stack prototyping, with a strong focus on defensive security engineering. Whether I am analysing security vulnerabilities or architecting modern platforms, I love solving complex technical problems that demand both logic and creativity.
 
