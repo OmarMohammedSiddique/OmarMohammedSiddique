@@ -33,7 +33,6 @@ I am a final-year Informatics and Computer Science student passionate about secu
 ## Connect With Me
 
 - 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/omar-siddique)
-- 📧 **Direct Contact:** [omusiddique@gmail.com](mailto:inquiries.omar@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
