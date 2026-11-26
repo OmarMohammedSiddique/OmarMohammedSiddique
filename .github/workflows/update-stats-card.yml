@@ -1,0 +1,45 @@
+# Regenerates the GitHub Stats card once a day so it counts private work.
+# Uses the PROFILE_STATS_TOKEN secret: a classic personal access token with
+# the repo and read:user scopes, used for nothing else.
+name: Update stats card
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # 06:30 in Nairobi
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: update-stats-card
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write # commits the regenerated card
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate stats card
+        # v2.1.0, pinned to its commit because it receives the token
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
+        with:
+          card: stats
+          options: username=OmarMohammedSiddique&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&ring_color=67e8f9&text_color=ffffff
+          path: profile/stats.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Commit the card if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "🍱 chore: update profile stats card"
+          git push
