@@ -39,7 +39,7 @@ I'm a final-year Informatics and Computer Science student at Strathmore Universi
 
 ## GitHub stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OmarMohammedSiddique&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff)
+![GitHub stats for Omar Siddique, including private repositories](./profile/stats.svg)
 
 ## How I work
 
