@@ -37,6 +37,10 @@ I'm a final-year Informatics and Computer Science student at Strathmore Universi
 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
+## GitHub stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OmarMohammedSiddique&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff)
+
 ## How I work
 
 My current projects have CI on GitHub Actions, work tracked as issues and changes made through pull requests, and each gets a security, privacy and accessibility review before it goes live.
